@@ -38,7 +38,7 @@
 		<item>%s está te fazendo coraçõesinhos.</item>
 		<item>%s está feliz em te ver.</item>
 		<item>%s precisa de atenção.</item>
-		<item>%s is offering you a flower.</item>
+		<item>%s está te oferecendo uma flor.</item>
 		<item>%s quer alguns mimos.</item>
 	</string-array>
 	<string-array name="affectionate_high">
@@ -173,7 +173,7 @@
 	</string-array>
 	<string-array name="affectionate_independent">
 		<item>%1$s não sabe como se aproximar de %2$s.\n%2$s ignora %1$s.</item>
-		<item>%1$s oferece uma flor para %2$s.\n%2$s is not sure, but accepts it eventually.</item>
+		<item>%1$s oferece uma flor para %2$s.\n%2$s pensa um pouco, mas aceita eventualmente.</item>
 		<item>%2$s dá uma olhadinha de lado em %1$s.\n%1$s dá a %2$s um sorriso amigável.</item>
 	</string-array>
 	<string-array name="affectionate_reserved">
