@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="personality_aggressive">Agressiva</string>
+	<string name="personality_affectionate">Afetuosa</string>
+	<string name="personality_independent">Independente</string>
+	<string name="personality_reserved">Reservada</string>
+	<string name="personality_obedient">Obediente</string>
+	<string name="personality_brave">Corajosa</string>
+	<string name="personality_unknown">Misteriosa</string>
+
+	<string-array name="aggressive_low">
+		<item>%s está desconfortável e se irritando.</item>
+		<item>%s está esbravejando.</item>
+		<item>%s está assustando a equipe.</item>
+		<item>%s quer intimidar a equipe.</item>
+		<item>%s está rindo de você.</item>
+	</string-array>
+	<string-array name="aggressive_medium">
+		<item>%s está rugindo.</item>
+		<item>%s está com fome.</item>
+		<item>%s anseia por lutar.</item>
+	</string-array>
+	<string-array name="aggressive_high">
+		<item>%s está treinando.</item>
+		<item>%s está lutando com a sombra.</item>
+		<item>%s tem um soco pronto pra entrega.</item>
+		<item>%s lutará por você.</item>
+	</string-array>
+
+	<string-array name="affectionate_low">
+		<item>%s está se embalando.</item>
+		<item>%s te deseja boa sorte.</item>
+		<item>%s se pergunta sobre o quê você está fazendo.</item>
+		<item>%s se acomoda e dorme.</item>
+		<item>%s está ansiando por sua atenção.</item>
+	</string-array>
+	<string-array name="affectionate_medium">
+		<item>%s está te fazendo coraçõesinhos.</item>
+		<item>%s está feliz em te ver.</item>
+		<item>%s precisa de atenção.</item>
+		<item>%s is offering you a flower.</item>
+		<item>%s quer alguns mimos.</item>
+	</string-array>
+	<string-array name="affectionate_high">
+		<item>%s diz que [1|ele|ela|elu] te ama!</item>
+		<item>%s acha você o máximo!</item>
+		<item>%s precisa de um abraço.</item>
+		<item>%s está se divertindo contigo.</item>
+		<item>%s está saltitando alegremente.</item>
+		<item>%s está animando a equipe.</item>
+	</string-array>
+
+	<string-array name="independent_low">
+		<item>%s não se importa com o que você está fazendo.</item>
+		<item>%s deseja ser livre.</item>
+		<item>%s anseia por liberdade.</item>
+		<item>%s está com tédio.</item>
+		<item>%s está ignorando o restante da equipe.</item>
+		<item>%s quer viver por sí [1|próprio|própria|próprie].</item>
+	</string-array>
+	<string-array name="independent_medium">
+		<item>%s está olhando para o horizonte...</item>
+		<item>%s não sabe o que pensar de você.</item>
+		<item>%s não tem certeza do que fazer.</item>
+		<item>%s meio que quer correr em liberdade.</item>
+		<item>%s está bocejando.</item>
+		<item>%s está brincando [1|sozinho|sozinha|sozinhe].</item>
+	</string-array>
+	<string-array name="independent_high">
+		<item>%s quer dar uma caminhada.</item>
+		<item>%s está contando aos outros as aventuras que [1|ele|ele|elu] teve com você.</item>
+		<item>%s está liderando o restante da equipe.</item>
+		<item>%s está demonstrando que [1|ele|ela|elu] se importa com você.</item>
+	</string-array>
+
+	<string-array name="reserved_low">
+		<item>%s está com ansiedade.</item>
+		<item>%s está indiferente.</item>
+		<item>%s se perdeu em seus pensamentos.</item>
+		<item>Você assustou %s enquanto [1|ele|ela|elu] devaneava.</item>
+		<item>%s está te ignorando.</item>
+		<item>%s suspira.</item>
+	</string-array>
+	<string-array name="reserved_medium">
+		<item>%s está admirando.</item>
+		<item>%s está olhando ao redor.</item>
+		<item>%s está cuidando de seu próprio nariz.</item>
+		<item>%s parece se preocupar com alguma coisa.</item>
+		<item>%s está em dúvidas.</item>
+	</string-array>
+	<string-array name="reserved_high">
+		<item>%s está lendo seu livro.</item>
+		<item>%s está olhando para a grama.</item>
+		<item>%s está dormindo.</item>
+		<item>%s te dá um leve sorriso.</item>
+		<item>%s está tentando se abrir pra você.</item>
+		<item>%s não está dizendo, mas parece feliz.</item>
+	</string-array>
+
+	<string-array name="obedient_low">
+		<item>%s pergunta como você está.</item>
+		<item>%s saltita alegremente.</item>
+		<item>%s está esperando por seus comandos.</item>
+		<item>%s obedecerá suas ordens a qualquer hora.</item>
+	</string-array>
+	<string-array name="obedient_medium">
+		<item>%s está feliz em te ver.</item>
+		<item>%s te pede para fazer um passeio juntos.</item>
+		<item>%s espera que você esteja bem.</item>
+	</string-array>
+	<string-array name="obedient_high">
+		<item>%s estava te esperando!</item>
+		<item>%s está feliz por sua causa.</item>
+		<item>%s está torcendo por você!</item>
+	</string-array>
+
+	<string-array name="brave_low">
+		<item>%s está procurando oponentes para desafiar.</item>
+		<item>%s quer correr lá fora.</item>
+		<item>%s está procurando por novidades.</item>
+		<item>%s entediou-se e quer algum desafio.</item>
+		<item>%s está procurando por aventura!</item>
+	</string-array>
+	<string-array name="brave_medium">
+		<item>%s quer explorar algumas ruínas.</item>
+		<item>%s te pergunta se você conhece lugares perigosos.</item>
+		<item>%s quer tentar algo empolgante.</item>
+		<item>%s provoca seus outros parceiros de equipe.</item>
+	</string-array>
+	<string-array name="brave_high">
+		<item>%s quer dar uma voltinha com você.</item>
+		<item>%s te encoraja a tentar algo novo.</item>
+		<item>%s está feliz viver !</item>
+		<item>%s te encoraja a sair de casa.</item>
+	</string-array>
+
+	<string-array name="aggressive_aggressive">
+		<item>%1$s ruge para %2$s.\n%2$s ruge para %1$s.</item>
+		<item>%1$s se gaba de suas vitórias com %2$s.\n%2$s discute que é melhor que %1$s.</item>
+		<item>%1$s e %2$s estão lutando.</item>
+	</string-array>
+	<string-array name="aggressive_affectionate">
+		<item>%1$s está rindo de %2$s.</item>
+		<item>%2$s oferece uma flor para %1$s.\n%1$s ignora, pois a flor não é comestível.</item>
+		<item>%1$s provoca %2$s.\n%2$s chora e corre de %1$s.</item>
+	</string-array>
+	<string-array name="aggressive_independent">
+		<item>%1$s encara %2$s.</item>
+		<item>%1$s encara %2$s.\n%2$s ignora %1$s.</item>
+		<item>%1$s desafia %2$s para uma luta.\n%2$s ignora %1$s.</item>
+	</string-array>
+	<string-array name="aggressive_reserved">
+		<item>%1$s provoca %2$s.\n%2$s corre de %1$s.</item>
+		<item>%1$s ignora %2$s.\n%2$s ignora mutualmente %1$s.</item>
+		<item>%1$s está com tédio by %2$s.\n%2$s dá de ombros.</item>
+	</string-array>
+	<string-array name="aggressive_obedient">
+		<item>%1$s zomba de %2$s por causa de sua índole.\n%2$s repreende %1$s por causa de sua índole.</item>
+		<item>%1$s desafia %2$s para uma batalha.\n%2$s aceita e espera vencer em sua homenagem.</item>
+		<item>%1$s fala mau de você para %2$s.\n%2$s se incomodou bastante.</item>
+	</string-array>
+	<string-array name="aggressive_brave">
+		<item>%1$s chama %2$s para explorar.\n%2$s aceita alegremente a oferta.</item>
+		<item>%1$s está se dando bem com %2$s.</item>
+		<item>%1$s conversa com %2$s sobre as últimas batalhas.\n%1$s e %2$s estão se divertindo.</item>
+		<item>%1$s se gaba com %2$s sobre suas habilidades.\n%2$s faz o mesmo.</item>
+	</string-array>
+
+	<string-array name="affectionate_affectionate">
+		<item>%1$s e %2$s estão fazendo coroas de flores.\n%1$s e %2$s estão felizes juntos.</item>
+		<item>%1$s e %2$s estão passeando alegremente sobre a grama.</item>
+		<item>%1$s pergunta a %2$s o que [2|ele|ela|elu] pensa de você.\n%2$s pensa que você é o máximo.</item>
+	</string-array>
+	<string-array name="affectionate_independent">
+		<item>%1$s não sabe como se aproximar de %2$s.\n%2$s ignora %1$s.</item>
+		<item>%1$s oferece uma flor para %2$s.\n%2$s is not sure, but accepts it eventually.</item>
+		<item>%2$s dá uma olhadinha de lado em %1$s.\n%1$s dá a %2$s um sorriso amigável.</item>
+	</string-array>
+	<string-array name="affectionate_reserved">
+		<item>%1$s elogia %2$s.\n%2$s avermelhou-se.</item>
+		<item>%1$s ofereceu uma flor para %2$s.\n%2$s ficou feliz.</item>
+		<item>%2$s sente que [2|ele|ela|elu] pode se abrir para %1$s.\n%1$s está muito feliz que %2$s está falando com [1|ele|ela|elu].</item>
+	</string-array>
+	<string-array name="affectionate_obedient">
+		<item>%1$s fala sobre você com %2$s.\n%2$s pensa que você é um máximo.</item>
+		<item>%2$s teme que você goste %1$s mais do que [2|ele|ela|elu].\n%1$s não sabe como se aproximar de %2$s.</item>
+		<item>%1$s oferece a %2$s uma flor.\n%2$s aceita e a dá pra você.</item>
+	</string-array>
+	<string-array name="affectionate_brave">
+		<item>%1$s se intimida com %2$s.\n%2$s ri de %1$s desafiadoramente.</item>
+		<item>%1$s admira %2$s por sua índole corajosa.</item>
+		<item>%1$s oferece a %2$s uma flor.\n%2$s aceita ousadamente.</item>
+	</string-array>
+
+	<string-array name="independent_independent">
+		<item>%1$s e %2$s estão se ignorando.</item>
+		<item>%1$s sugere a %2$s que eles deveriam fugir juntos algum dia.\n%2$s acha que é uma boa ideia.</item>
+		<item>%1$s está meditando com %2$s.</item>
+	</string-array>
+	<string-array name="independent_reserved">
+		<item>%1$s ignora %2$s.\n%2$s esta feliz que %1$s está ignorando [2|ele|ela|elu].</item>
+		<item>%2$s não sabe o que dizer para %1$s.</item>
+		<item>%1$s acha %2$s entediante.\n%2$s tenta se aproximar de %1$s mas sua timidez é grande.</item>
+	</string-array>
+	<string-array name="independent_obedient">
+		<item>%2$s Repreende %1$s por [1|ele|ela|elu] não ter fé suficiente em você.\n%1$s dá de ombros.</item>
+		<item>%2$s pede a %1$s para cooperar mais.\n%1$s ignora [2|ele|ela|elu].</item>
+		<item>%1$s sugera a %2$s que [2|ele|ela|elu] deve ser mais independente.\n%2$s não entende.</item>
+	</string-array>
+	<string-array name="independent_brave">
+		<item>%2$s desafia %1$s a uma corrida.\n%1$s aceita.</item>
+		<item>%1$s admira %2$s por sua índole corajosa.</item>
+		<item>%1$s sugere a %2$s fugir juntos para ser livres.\n%2$s está feliz com o que tem.</item>
+	</string-array>
+
+	<string-array name="reserved_reserved">
+		<item>%1$s ignora %2$s.\nÉ um ciclo vicioso.</item>
+		<item>%1$s se sente em paz perto de %2$s.\n%2$s diz que é por causa de suas indoles semelhantes.</item>
+		<item>%1$s e %2$s estão falando sobre livros.\n%1$s diz que livros são melhores que alguns colegas.</item>
+	</string-array>
+	<string-array name="reserved_obedient">
+		<item>%1$s está ignorando %2$s.\n%2$s não se importa mesmo.</item>
+		<item>%2$s diz a %1$s que [1|ele|ela|elu] devia se afirmar mais.\n%1$s se incomoda.</item>
+		<item>%1$s respeita %2$s por causa de sua índole.\n%2$s fica feliz em ouvir isso.</item>
+	</string-array>
+	<string-array name="reserved_brave">
+		<item>%1$s admira %2$s por causa de seu caráter corajoso.\n%2$s agradece %1$s com orgulho.</item>
+		<item>%2$s encoraja %1$s a ter mais atitude.\n%1$s fica com ansiedade.</item>
+		<item>%2$s desafia %1$s a uma corrida.\n%1$s fica pra trás.</item>
+	</string-array>
+
+	<string-array name="obedient_obedient">
+		<item>%1$s está te elogiando para %2$s.\n%2$s concorda com [1|ele|ela|elu].</item>
+		<item>%1$s está brincando de esconde-esconde com %2$s.</item>
+		<item>%1$s e %2$s estão descutindo sobre quem te ama mais.</item>
+	</string-array>
+	<string-array name="obedient_brave">
+		<item>%1$s repreende %2$s por ousar demais.\n%2$s ri de %1$s.</item>
+		<item>%1$s teme que %2$s possa te causar problemas.</item>
+		<item>%1$s se pergunta se [1|ele|ela|elu] deve ser mais como %2$s.\n%2$s diz que está tudo certo para %1$s ser o que [1|ele é|ela é|elu é].</item>
+	</string-array>
+
+	<string-array name="brave_brave">
+		<item>%1$s desafia %2$s para uma luta.\n%2$s aceita alegremente.</item>
+		<item>%1$s pergunta %2$s sobre suas aventuras.\n%1$s se diverte ouvindo as aventuras de %2$s\.</item>
+		<item>%1$s aventura-se lá fora com%2$s.\n%1$s e %2$s se divertiram lá fora.</item>
+	</string-array>
+
+	<string-array name="aggressive_affectionate_obedient">
+		<item>%2$s e %3$s repreendem %1$s por sua índole agressiva.\n%1$s ruge e os assusta.</item>
+	</string-array>
+	<string-array name="aggressive_independent_brave">
+		<item>%1$s, %2$s e %3$s estão discutindo o que fazer quando estiverem por conta própria.</item>
+	</string-array>
+	<string-array name="aggressive_reserved_brave">
+		<item>%2$s se sente muito desconfortável entre %3$s e %1$s.</item>
+	</string-array>
+	<string-array name="affectionate_independent_obedient">
+		<item>%1$s e %3$s estão tentando persuadir %2$s a se conectar com você.</item>
+	</string-array>
+	<string-array name="affectionate_reserved_obedient">
+		<item>%1$s e %3$s estão tentando involver %2$s em suas brincadeiras para fazê-[2|lo|la|le] mais sociável.</item>
+	</string-array>
+
+	<string name="aggressive_release_low">%s te odiava mesmo.</string>
+	<string name="aggressive_release_medium">%s está feliz por finalmente ser livre novamente.</string>
+	<string name="aggressive_release_high">%s vai sentir falta de vencer por você.</string>
+	<string name="affectionate_release_low">%s se aliviou por estar livre, no fim.</string>
+	<string name="affectionate_release_medium">%s parte com tristeza.</string>
+	<string name="affectionate_release_high">%s lamenta se separar de você.</string>
+	<string name="independent_release_low">%s está feliz por ser livre novamente.</string>
+	<string name="independent_release_medium">%s te cumprimenta e parte.</string>
+	<string name="independent_release_high">%s vai valorizar cada momento que teve com você, mas parte mesmo assim.</string>
+	<string name="reserved_release_low">%s corre o mais rápido que [1|ele|ela|elu] pode.</string>
+	<string name="reserved_release_medium">%s vai embora.</string>
+	<string name="reserved_release_high">%s vai embora alegremente.</string>
+	<string name="obedient_release_low">%s entende suas ordens e parte.</string>
+	<string name="obedient_release_medium">%s vai sentir falta de sua companhia.</string>
+	<string name="obedient_release_high">%s está triste demais, mas atente às tuas ordens.</string>
+	<string name="brave_release_low">%s vai embora sem se preocupar.</string>
+	<string name="brave_release_medium">%s te cumprimenta e vai embora.</string>
+	<string name="brave_release_high">%s te agradece pelas lutas e vai embora.</string>
+	<string name="default_release">%s partiu.</string>
+
+	<string name="satisfaction_usage_increase">%s gostaria de tem mais batalhas.</string>
+	<string name="satisfaction_usage_decrease">%s acha que você não deveria depender [1|nele|nela|nelu] demais.</string>
+	<string name="satisfaction_victory_increase">%s gostaria de vencer mais batalhas.</string>
+	<string name="satisfaction_damage_increase">%s gostaria de mostrar mais de sua força.</string>
+	<string name="satisfaction_time_increase">%s só precisa de mais tempo com você.</string>
+	<string name="satisfaction_growth_increase">%s gostaria de treinar mais.</string>
+	<string name="satisfaction_trade_increase">%s parece bem com a troca de donos e conhecer lugares diferentes.</string>
+	<string name="satisfaction_trade_decrease">%s parece um pouco triste enquanto pensa em seu antigo dono.</string>
+	<string name="satisfaction_mission_increase">%s se orgulha de suas aventuras individuais, e quer mais.</string>
+	<string name="satisfaction_mission_decrease">%s jamais quer se separar de você, nem mesmo por um instante.</string>
+	<string name="satisfaction_distance_increase">%s gostaria de viajar ainda mais com você.</string>
+	<string name="satisfaction_day_distance_increase">%s gostaria de viajar um pouco com você hoje.</string>
+	<string name="satisfaction_walk_days_increase">%s gostaria que suas atividades justos virassem um hábito mais forte.</string>
+	<string name="satisfaction_walk_time_increase">%s acha que já faz um tempo que [1|ele|ela|elu] fez algo por você.</string>
+	<string name="satisfaction_big_walk_days_increase">%s gostaria que suas caminhadas juntos se tornassem um hábito ainda mais forte.</string>
+	<string name="satisfaction_big_walk_time_increase">%s gostaria de ter um tempo pra si e relaxar um pouco.</string>
+	<string name="satisfaction_big_walk_time_decrease">%s acha que já faz um tempo desde sua última caminhada juntos.</string>
+	<string name="satisfaction_default">%s parece bem.</string>
+</resources>
